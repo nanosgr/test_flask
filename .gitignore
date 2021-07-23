@@ -1,0 +1,3 @@
+# Agregamos los archivos a ser ignorados
+__pycache__/
+*.py[cod]
